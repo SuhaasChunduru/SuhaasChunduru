@@ -116,12 +116,22 @@
 ## GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaasChunduru&show_icons=true&cache_seconds=86400&v=2&bg_color=0A2647&title_color=2C74B3&icon_color=2C74B3&text_color=ffffff&border_color=144272" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaasChunduru&layout=compact&cache_seconds=86400&v=2&bg_color=0A2647&title_color=2C74B3&text_color=ffffff&border_color=144272&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaasChunduru&theme=blueberry" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuhaasChunduru&theme=blueberry" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaasChunduru&background=0A2647&border=144272&ring=2C74B3&fire=2C74B3&currStreakLabel=2C74B3&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=SuhaasChunduru&background=0A2647&border=144272&ring=2C74B3&fire=2C74B3&currStreakLabel=2C74B3&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## LEETCODE
+
+<p align="center">
+  <a href="https://leetcode.com/u/suhaaschunduru/">
+    <img src="https://leetcard.jacoblin.cool/suhaaschunduru?theme=nord&font=JetBrains%20Mono&ext=heatmap&border=1&radius=8" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
@@ -134,6 +144,9 @@
   </a>
   <a href="https://github.com/SuhaasChunduru">
     <img src="https://img.shields.io/badge/GitHub-SuhaasChunduru-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/suhaaschunduru/">
+    <img src="https://img.shields.io/badge/LeetCode-suhaaschunduru-0A2647?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
   <a href="mailto:suhaaschunduru07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-144272?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
