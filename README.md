@@ -129,7 +129,7 @@
 ## CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/suhaas-chunduru-6a49aa322/">
     <img src="https://img.shields.io/badge/LinkedIn-Chunduru_Suhaas-0A2647?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SuhaasChunduru">
