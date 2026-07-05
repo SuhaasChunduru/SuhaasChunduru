@@ -116,8 +116,8 @@
 ## GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaasChunduru&show_icons=true&bg_color=0A2647&title_color=2C74B3&icon_color=2C74B3&text_color=ffffff&border_color=144272" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaasChunduru&layout=compact&bg_color=0A2647&title_color=2C74B3&text_color=ffffff&border_color=144272&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhaasChunduru&show_icons=true&cache_seconds=86400&v=2&bg_color=0A2647&title_color=2C74B3&icon_color=2C74B3&text_color=ffffff&border_color=144272" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaasChunduru&layout=compact&cache_seconds=86400&v=2&bg_color=0A2647&title_color=2C74B3&text_color=ffffff&border_color=144272&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
