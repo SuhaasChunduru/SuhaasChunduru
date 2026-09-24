@@ -132,7 +132,6 @@
 | Certification | Issuer |
 | --- | --- |
 | **Oracle Certified Professional: Java SE 17 Developer** | Oracle Corporation |
-| **Global Immersion Programme 2025 — Dubai, UAE** | Ureka Global Innovation Hub × RIT Dubai |
 
 ---
 
